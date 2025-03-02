@@ -7,4 +7,9 @@ public class Son extends Father {
 //        super(1);
         System.out.println("Son two");
     }
+
+    @Override
+    public void set() {
+        System.out.println("六百六十六");
+    }
 }

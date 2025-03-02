@@ -4,6 +4,8 @@ public class Add {
     double c;
     double d;
     public int add(int a, int b) {
+        this.a = a;
+        this.b = b;
         return a+b;
     }
     public double add(double c, double d) {

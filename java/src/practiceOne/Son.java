@@ -1,3 +1,5 @@
+package practiceOne;
+
 public class Son extends Father {
     public Son() {
         super(1);
@@ -13,3 +15,4 @@ public class Son extends Father {
         System.out.println("六百六十六");
     }
 }
+
